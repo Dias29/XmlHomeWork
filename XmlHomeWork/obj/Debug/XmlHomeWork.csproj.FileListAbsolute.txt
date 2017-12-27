@@ -1,0 +1,6 @@
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\XmlHomeWork\XmlHomeWork\bin\Debug\XmlHomeWork.exe.config
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\XmlHomeWork\XmlHomeWork\bin\Debug\XmlHomeWork.exe
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\XmlHomeWork\XmlHomeWork\bin\Debug\XmlHomeWork.pdb
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\XmlHomeWork\XmlHomeWork\obj\Debug\XmlHomeWork.csprojResolveAssemblyReference.cache
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\XmlHomeWork\XmlHomeWork\obj\Debug\XmlHomeWork.exe
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\XmlHomeWork\XmlHomeWork\obj\Debug\XmlHomeWork.pdb
